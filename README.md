@@ -3,6 +3,7 @@
 After cloning the mygrades please run the following command.
 
 npm install
+
 npm start
 
 Rest APIs:
