@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 5,
+    "Assessment": 9
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"Veeru\",\"category\":\"Teacher\",\"badges\":[\"No Badge\"],\"id\":1}",
+      "2": "{\"name\":\"Rocky\",\"category\":\"Teacher\",\"badges\":[\"No Badge\"],\"id\":2}",
+      "3": "{\"name\":\"Aadhira\",\"category\":\"Student\",\"badges\":[\"No Badge\"],\"id\":3}",
+      "4": "{\"name\":\"Arya\",\"category\":\"Student\",\"badges\":[\"No Badge\"],\"id\":4}"
+    },
+    "Assessment": {
+      "1": "{\"name\":\"Mathematics\",\"qa\":[{}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":0,\"id\":1}",
+      "2": "{\"name\":\"Mathematics\",\"qa\":[{\"www\":\"sfgderge\"}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":0,\"id\":2}",
+      "3": "{\"name\":\"Mathematics\",\"qa\":[{\"www\":[\"sfgderge\",\"drtgheth\"]}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":0,\"id\":3}",
+      "4": "{\"name\":\"Mathematics\",\"qa\":[{\"What is 4 multiplied by 5?\":[\"20\",\"30\"]}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":0,\"id\":4}",
+      "5": "{\"name\":\"Mathematics\",\"qa\":[{\"What is 4 multiplied by 5?\":[\"20\",\"30\"]}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":1,\"id\":5}",
+      "6": "{\"name\":\"Mathematics\",\"qa\":[{\"What is 4 multiplied by 5?\":[\"20\",\"30\"]}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":2,\"id\":6}",
+      "7": "{\"name\":\"Mathematics\",\"qa\":[{\"What is 4 multiplied by 5?\":[\"20\",\"30\"]}],\"studentAnswers\":[\"string\"],\"status\":\"string\",\"result\":\"string\",\"userId\":3,\"id\":7}",
+      "8": "{\"name\":\"Addition\",\"qa\":[{\"4+3 = ?\":{\"options\":[7,5,2,3],\"ans\":1}},{\"11+3 = ?\":{\"options\":[17,14,2,3],\"ans\":2}},{\"4+4 = ?\":{\"options\":[7,5,2,4],\"ans\":3}}],\"studentAnswers\":[\"1\",\"2\",\"1\"],\"status\":\"Completed\",\"result\":\"2/3\",\"userId\":4,\"id\":8}"
+    }
+  }
+}
